@@ -3,7 +3,7 @@ Flutter installation setup and verification task with sample project.
 ## 📸 Output
 
 ### Flutter Doctor
-![Doctor](flutter doctor.png)
+![Doctor](flutterdoctor.png)
 
 ### App Run
 ![Run](install.png)
